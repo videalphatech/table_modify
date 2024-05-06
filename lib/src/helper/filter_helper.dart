@@ -550,7 +550,7 @@ class PlutoGridFilterPopupHeader extends StatelessWidget {
           ),
           IconButton(
             icon: const Icon(Icons.clear_sharp),
-            color: Colors.red,
+            color: Colors.blue,
             iconSize: configuration!.style.iconSize,
             onPressed: handleClearButton,
           ),
